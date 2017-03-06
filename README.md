@@ -1,5 +1,4 @@
 # hello-world
 starting
 
-
-what is happening???
+just beginning to code and has absolutely no idea what this is about. Lets hope for the best.
